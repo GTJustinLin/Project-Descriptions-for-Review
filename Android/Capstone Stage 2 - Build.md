@@ -2,7 +2,6 @@
 
 In Stage 1, you designed and planned your Capstone app. Now, it's time to build it!  
 
-**Nanodegree students must successfully complete the <a href="https://www.udacity.com/course/viewer#!/c-nd801/l-4041218607/m-4280888865" target="_blank">Capstone, Stage 1</a> project prior to beginning Stage 2.** 
 
 ## Why this Project?
 
@@ -18,13 +17,13 @@ The Capstone project will give you the experience you need to own the full devel
 
 You will learn the skills you need to complete this project in these courses:
 
-* <a href="https://www.udacity.com/course/developing-android-apps-fundamentals--ud853-nd" target="_blank">Developing Android Apps: Android Fundamentals</a>
-* <a href="https://www.udacity.com/course/advanced-android-app-development--ud855-nd" target="_blank">Advanced Android App Development: Productionize and Publish Your App</a>
-* <a href="https://www.udacity.com/course/google-play-services--ud876-nd" target="_blank">Google Play Services: Use Google APIs to Improve Your Apps</a>
-* <a href="https://www.udacity.com/course/gradle-for-android-and-java--ud867-nd" target="_blank">Gradle for Android and Java: Build Better Apps Through Automation</a>
+* Developing Android Apps: Android Fundamentals
+* Advanced Android App Development: Productionize and Publish Your App
+* Google Play Services: Use Google APIs to Improve Your Apps
+* Gradle for Android and Java: Build Better Apps Through Automation
 
 ## Required Tasks
-1. Successfully complete <a href="https://www.udacity.com/course/viewer#!/c-nd801/l-4041218607/m-4280888865" target="_blank">Stage 1</a>.
+1. Successfully complete Stage 1.
 2. Build your app using your Stage 1 document as a guide.
 3. Submit your app source code through the Nanodegree project portal.
 

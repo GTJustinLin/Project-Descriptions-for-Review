@@ -29,9 +29,9 @@ Lastly, you will take the entire end-to end-user interaction flow, including wha
 ##How Will I Complete this Project?
 
 ###Supporting Course Materials
-You should have the skills you need to complete this project after completing the <a href="https://www.udacity.com/course/viewer#!/c-ud853-nd" target="_blank">Developing Android Apps</a> course, focusing on Lessons 4 and 5.
+You should have the skills you need to complete this project after completing the Developing Android Apps course, focusing on Lessons 4 and 5.
 
-You are expected to have passed the <a href="https://www.udacity.com/course/viewer#!/c-nd801/l-4256658707/m-4242848655" target="_blank">Popular Movies, Stage 1</a> project prior to beginning this project.
+You are expected to have passed the Popular Movies, Stage 1 project prior to beginning this project.
 
 ###Implementation Guide
 Just like in Stage 1, we've come up with a set of milestones that will help structure your development and ensure that you reach the final product smoothly. These milestones are listed in the <a href="https://docs.google.com/document/d/1ZlN1fUsCSKuInLECcJkslIqvpKlP7jWL2TP9m6UiA6I/pub?embedded=true#h.7sxo8jefdfll" target="_blank">Stage 2 Implementation Guide</a>.

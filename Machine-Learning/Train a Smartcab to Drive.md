@@ -1,12 +1,12 @@
-# Project 4: Reinforcement Learning
-## Train a Smartcab to Drive
+# Content: Reinforcement Learning
+## Project: Train a Smartcab How to Drive
 
 ## Project Overview
 
 In this project you will apply reinforcement learning techniques for a self-driving agent in a simplified world to aid it in effectively reaching its destinations in the allotted time. You will first investigate the environment the agent operates in by constructing a very basic driving implementation. Once your agent is successful at operating within the environment, you will then identify each possible state the agent can be in when considering such things as traffic lights and oncoming traffic at each intersection. With states identified, you will then implement a Q-Learning algorithm for the self-driving agent to guide the agent towards its destination within the allotted time. Finally, you will improve upon the Q-Learning algorithm to find the best configuration of learning and exploration factors to ensure the self-driving agent is reaching its destinations with consistently positive results.
 
 ## Description
-In the not-so-distant future, taxicab companies across the United States no longer employ human drivers to operate their fleet of vehicles. Instead, the taxicabs are operated by self-driving agents ? known as **smartcabs** ? to transport people from one location to another within the cities those companies operate. In major metropolitan areas, such as Chicago, New York City, and San Francisco, an increasing number of people have come to rely on **smartcabs** to get to where they need to go as safely and efficiently as possible. Although **smartcabs** have become the transport of choice, concerns have arose that a self-driving agent might not be as safe or efficient as human drivers, particularly when considering city traffic lights and other vehicles. To alleviate these concerns, your task as an employee for a national taxicab company is to use reinforcement learning techniques to construct a demonstration of a **smartcab** operating in real-time to prove that both safety and efficiency can be achieved.
+In the not-so-distant future, taxicab companies across the United States no longer employ human drivers to operate their fleet of vehicles. Instead, the taxicabs are operated by self-driving agents, known as **smartcabs**, to transport people from one location to another within the cities those companies operate. In major metropolitan areas, such as Chicago, New York City, and San Francisco, an increasing number of people have come to rely on **smartcabs** to get to where they need to go as safely and efficiently as possible. Although **smartcabs** have become the transport of choice, concerns have arose that a self-driving agent might not be as safe or efficient as human drivers, particularly when considering city traffic lights and other vehicles. To alleviate these concerns, your task as an employee for a national taxicab company is to use reinforcement learning techniques to construct a demonstration of a **smartcab** operating in real-time to prove that both safety and efficiency can be achieved.
 
 ## Software Requirements
 This project uses the following software and Python libraries:
@@ -22,15 +22,13 @@ This project uses the following software and Python libraries:
 
 If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer. `pygame` can then be installed using one of the following commands:
 
-Mac:  
-`conda install -c https://conda.anaconda.org/quasiben pygame`
-
-Windows & Linux:  
-`conda install -c https://conda.anaconda.org/tlatorre pygame`
+Mac:  `conda install -c https://conda.anaconda.org/quasiben pygame`  
+Windows: `conda install -c https://conda.anaconda.org/tlatorre pygame`  
+Linux:  `conda install -c https://conda.anaconda.org/prkrekel pygame`  
 
 ## Starting the Project
 
-For this assignment, you can find the `smartcab.zip` archive containing the necessary project files as a downloadable in the **Resources** section. *You may also visit our [Machine Learning projects GitHub](https://github.com/udacity/machine-learning) to have access to all of the projects available for this Nanodegree.*
+For this assignment, you can find the `smart cab` folder containing the necessary project files on the [Machine Learning projects GitHub](https://github.com/udacity/machine-learning), under the `projects` folder. You may download all of the files for projects we'll use in this Nanodegree program directly from this repo. Please make sure that you use the most recent version of project files when completing a project!
 
 This project contains two directories:
 
@@ -56,7 +54,7 @@ This will run the `agent.py` file and execute your implemented agent code into t
 ## Definitions
 
 ### Environment
-The **smartcab** operates in an ideal, grid-like city (similar to New York City), with roads going in the North-South and East-West directions. Other vehicles will certainly be present on the road, but there will be no pedestrians to be concerned with. At each intersection is a traffic light that either allows traffic in the North-South direction or the East-West direction. U.S. Right-of-Way rules apply: 
+The **smartcab** operates in an ideal, grid-like city (similar to New York City), with roads going in the North-South and East-West directions. Other vehicles will certainly be present on the road, but there will be no pedestrians to be concerned with. At each intersection there is a traffic light that either allows traffic in the North-South direction or the East-West direction. U.S. Right-of-Way rules apply: 
 - On a green light, a left turn is permitted if there is no oncoming traffic making a right turn or coming straight through the intersection.
 - On a red light, a right turn is permitted if no oncoming traffic is approaching from your left through the intersection.
 To understand how to correctly yield to oncoming traffic when turning left, you may refer to [this official drivers? education video](https://www.youtube.com/watch?v=TW0Eq2Q-9Ac), or [this passionate exposition](https://www.youtube.com/watch?v=0EdkxI6NeuA).
@@ -126,7 +124,7 @@ When you are ready to submit your project, collect the following files and compr
 Once you have collected these files and reviewed the project rubric, proceed to the project submission page.
 
 ### I'm Ready!
-When you're ready to submit your project, click on the **Submit Project** button at the bottom of this page.
+When you're ready to submit your project, click on the **Submit Project** button at the bottom of the page.
 
 If you are having any problems submitting your project or wish to check on the status of your submission, please email us at **machine-support@udacity.com** or visit us in the <a href="http://discussions.udacity.com" target="_blank">discussion forums</a>.
 

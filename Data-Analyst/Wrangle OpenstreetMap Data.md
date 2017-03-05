@@ -1,10 +1,7 @@
 # Data Wrangling - OpenStreetMap
 
 ### Data Wrangling Project Overview Document
-+Is now available from the Description tab inside the Reviews app.
-
-### Data Wrangling Submission Instructions for Students
-These [instructions](https://www.udacity.com/course/viewer#!/c-nd002/l-3168208620/m-7713531907) are student-facing. In particular, they contains instructions on getting OSM datasets using a custom query - you might encounter this in student submissions. 
++Is now available from the Description tab inside the Reviews app. 
 
 ### Project Rubric - Student Facing
 [Rubric](https://review.udacity.com/#!/projects/3168208620/rubric)

@@ -5,7 +5,7 @@
 
 In this project, you will investigate a classic phenomenon from experimental psychology called the <a href="https://en.wikipedia.org/wiki/Stroop_effect" target="_blank">Stroop Effect</a>. You will learn a little bit about the experiment, create a hypothesis regarding the outcome of the task, then go through the task yourself. You will then look at some data collected from others who have performed the same task and will compute some statistics describing the results. Finally, you will interpret your results in terms of your hypotheses.
 
-Prepare for this project with: <a href="https://www.udacity.com/course/viewer#!/c-ud134-nd" target="_blank">Statistics</a>. If you have not yet done so, you may wish to go through the <a href="https://www.udacity.com/course/viewer#!/c-nd002/l-4446458586/m-4332008402" target="_blank">Statistics Placement Advisor</a> to see which parts of the course are recommended for review before completing this project.
+Prepare for this project with: Statistics. If you have not yet done so, you may wish to go through the Statistics Placement Advisor to see which parts of the course are recommended for review before completing this project.
 
 ## Why this Project?
 
@@ -26,7 +26,7 @@ Using statistics to draw valid conclusions about data is an important part of a 
 
 ## How do I Complete this Project?
 
-This project is connected to the <a href="https://www.udacity.com/course/viewer#!/c-ud134-nd" target="_blank">Statistics</a> course, but depending on your background knowledge of statistics, you may not need to take the whole course to complete this project. If you would like, you can use the <a href="https://www.udacity.com/course/viewer#!/c-nd002/l-4446458586" target="_blank">Statistics Placement Advisor</a> to determine what material you need to review.
+This project is connected to the Statistics course, but depending on your background knowledge of statistics, you may not need to take the whole course to complete this project. If you would like, you can use the Statistics Placement Advisor to determine what material you need to review.
 
 Follow <a href="https://docs.google.com/document/d/1-OkpZLjG_kX9J6LIQ5IltsqMzVWjh36QpnP2RYpVdPU/pub?embedded=True">these instructions</a> and create a pdf or html document answering the questions. These document formats are compatible across a broad range of computers and browsers and are one of the surest ways of making sure that your intents are received properly. If you are using a word processing program such as Microsoft Word or LibreOffice, make sure that you save your document as a pdf and include the pdf in your project submission.
 
